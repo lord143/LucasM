@@ -1,6 +1,6 @@
-# cadastro de email
+# Apresentação Pessoal
 
-Pagina para cadastro de Email
+Apresentação Pessoal
 
 ## Getting started
 
